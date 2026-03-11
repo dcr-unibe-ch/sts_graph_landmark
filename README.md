@@ -31,7 +31,7 @@ In order to install `sts_graph_landmark` from github the github-package is requi
 
 You can then install the development version of `sts_graph_landmark` with:
 
-	github install CTU-Bern/sts_graph_landmark
+	github install dcr-unibe-ch/sts_graph_landmark
 
 
 Example
@@ -62,6 +62,6 @@ Author
 ------
 
 **Arnaud Künzi**  
-CTU Bern  
+DCR  
 arnaud.kuenzi@ctu.unibe.ch  
-<https://github.com/CTU-Bern/sts_graph_landmark>  
+<https://github.com/dcr-unibe-ch/sts_graph_landmark>  
